@@ -1,2 +1,2 @@
 # PigGame
-A Two player dice application built with JavaScript
+A Two player dice game application built with JavaScript
